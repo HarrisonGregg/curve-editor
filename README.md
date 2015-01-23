@@ -1,15 +1,17 @@
 # curve-editor
-Requires c++11 and freeglut.
+## Requirements
+c++11 and freeglut
 
+##Controls
 Draw curves by clicking while holding down one of the following keys:
 
-p: polylines
+ - p: polylines
 
-b: Bezier Curves
+ - b: Bezier Curves
 
-r: Catmull-Rom Splines
+ - r: Catmull-Rom Splines
 
-l: Lagrange curves
+ - l: Lagrange curves
 
 Click curves to select.
 

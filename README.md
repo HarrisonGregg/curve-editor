@@ -1,7 +1,7 @@
 # curve-editor
 Requires c++11 and freeglut.
 
-Draw curves by clicking while holding down one of the following keys:\n
+Draw curves by clicking while holding down one of the following keys:
 
 p: polylines
 
@@ -11,3 +11,8 @@ r: Catmull-Rom Splines
 
 l: Lagrange curves
 
+Click curves to select.
+
+Drag curves to move.
+
+Hold 'a' to add points to selected curve.
